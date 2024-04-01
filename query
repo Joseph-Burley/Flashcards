@@ -1,0 +1,5 @@
+Procedural Programming|organized procedures that call each other|Programming Paradigms
+Object-Oriented Programming|organized objects that contain both data and instructions|Programming Paradigms
+First Normal Form|There are no duplicate records in the table|databases
+Second Normal Form|Columns do not contain relations or composite values|databases
+Third Normal Form|Attributes depend on the whole key|databases
